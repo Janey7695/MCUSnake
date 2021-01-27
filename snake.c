@@ -1,8 +1,6 @@
-#include "draw_api.h"
+
 #include "snake.h"
-#include "stdlib.h"
-#include "delay.h"
-#include "stm32f10x.h"
+
 
 snake* head;				//������ͷ�ṹ��ָ��
 snake* q;					//�����߽��ṹ��ָ��

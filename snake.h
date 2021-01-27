@@ -1,6 +1,11 @@
 #ifndef __SNAKE_H
 #define __SNAKE_H
 
+#include "stdlib.h"
+#include "delay.h"
+#include "stm32f10x.h"
+#include "draw_api.h"
+
 #define UP 1
 #define DOWN 2
 #define RIGHT 3
